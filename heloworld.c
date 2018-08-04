@@ -1,2 +1,2 @@
 #include<stdid.h>
-
+int
