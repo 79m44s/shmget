@@ -1,2 +1,7 @@
 #include<stdid.h>
-int
+int main()
+{
+
+
+
+}
